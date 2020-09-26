@@ -1,0 +1,2 @@
+E:\Documents\Flip\Flip\Flip\obj\Debug\Flip.csprojAssemblyReference.cache
+E:\Documents\Flip\Flip\Flip\obj\Debug\Flip.csproj.CoreCompileInputs.cache
