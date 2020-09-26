@@ -8,6 +8,7 @@ Flip is an testing program.
 Added functionality to Menu Items:
 - File > Close,
 - Window > About,
+
 Other updates:
 - Added About Box,
 - Added function to OK button in About Box.
