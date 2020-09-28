@@ -4,6 +4,9 @@ Flip is an testing program.
 
 ## Updates
 
+#### 1.1.1 - Main Window
+Add Grid.
+
 #### 1.1.0 - Functionality update
 Added functionality to Menu Items:
 - File > Close,
